@@ -1,0 +1,8 @@
+[package]
+name = "c2-guessing_game"
+version = "0.1.0"
+authors = ["jpmarindiaz <jpmarindiaz@gmail.com>"]
+
+[dependencies]
+rand = "0.5"
+

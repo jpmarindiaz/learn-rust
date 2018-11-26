@@ -1,0 +1,6 @@
+[package]
+name = "c3-1-variables"
+version = "0.1.0"
+authors = ["jpmarindiaz <jpmarindiaz@gmail.com>"]
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "c4-1-ownership"
+version = "0.1.0"
+authors = ["jpmarindiaz <jpmarindiaz@gmail.com>"]
+
+[dependencies]
